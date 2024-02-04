@@ -1,0 +1,10 @@
+## steps
+
+https://www.youtube.com/watch?v=zQBd3hNXJgI
+
+-npx create-react-app <project_name>
+-in app.js, removed unnecessary code expect 1st div
+
+- npm i react-router react-router-dom react-icons
+  -in index.js, added router
+  -dashboard closing opening is done by css- check css file
